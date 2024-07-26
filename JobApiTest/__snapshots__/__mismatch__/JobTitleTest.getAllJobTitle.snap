@@ -1,0 +1,11 @@
+﻿{
+  "data": {
+    "createJobTitle": {
+      "code": "101",
+      "description": "Lead",
+      "id": "0190ee95-02d1-7500-9c9d-e39e4f82547a",
+      "isUsed": null,
+      "level": 4
+    }
+  }
+}
